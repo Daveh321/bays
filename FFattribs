@@ -4,15 +4,13 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "circle",
+        "type": "points",
         "coordinates": [
            -0.176443251606339,
            51.517733666715102
         ]
       },
       "properties": {
-        "base-height": 5,
-        "height": 10,
         "name": "F-114",
         "area": "25.11sq.m",
         "micadid": "20976010",
