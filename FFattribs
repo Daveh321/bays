@@ -1,1 +1,20 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -0.176415290860558,
+           51.517724667998301
+        ]
+      },
+      "properties": {
+        "name": "F-114",
+        "area": "25.11sq.m",
+        "micadid": "20976010",
+        "icon": "marker"
+      }
+    ]
+  }    
