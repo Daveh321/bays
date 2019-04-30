@@ -12,6 +12,8 @@
       },
       "properties": {
         "name": "F-114",
+        "height": 10,
+        "base-height": 5,
         "area": "25.11sq.m",
         "micadid": "20976010",
         "icon": "marker"
