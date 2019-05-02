@@ -13,8 +13,8 @@
       "properties": {
         "id": "F01",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -85,8 +85,8 @@
       "properties": {
         "id": "F02",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -157,8 +157,8 @@
       "properties": {
         "id": "F03",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -205,8 +205,8 @@
       "properties": {
         "id": "F04",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -317,8 +317,8 @@
       "properties": {
         "id": "F05",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -357,8 +357,8 @@
       "properties": {
         "id": "F06",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -469,8 +469,8 @@
       "properties": {
         "id": "F07",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -573,8 +573,8 @@
       "properties": {
         "id": "F08",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -653,8 +653,8 @@
       "properties": {
         "id": "F09",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -745,8 +745,8 @@
       "properties": {
         "id": "F10",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -853,8 +853,8 @@
       "properties": {
         "id": "F11",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -921,8 +921,8 @@
       "properties": {
         "id": "F12",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -985,8 +985,8 @@
       "properties": {
         "id": "F13",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1053,8 +1053,8 @@
       "properties": {
         "id": "F14",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1117,8 +1117,8 @@
       "properties": {
         "id": "F15",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1165,8 +1165,8 @@
       "properties": {
         "id": "F16",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1257,8 +1257,8 @@
       "properties": {
         "id": "F17",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1341,8 +1341,8 @@
       "properties": {
         "id": "F18",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1401,8 +1401,8 @@
       "properties": {
         "id": "F19",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1445,8 +1445,8 @@
       "properties": {
         "id": "F20",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1485,8 +1485,8 @@
       "properties": {
         "id": "F21",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1541,8 +1541,8 @@
       "properties": {
         "id": "F22",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1581,8 +1581,8 @@
       "properties": {
         "id": "F23",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1621,8 +1621,8 @@
       "properties": {
         "id": "F24",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1669,8 +1669,8 @@
       "properties": {
         "id": "F25",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1709,8 +1709,8 @@
       "properties": {
         "id": "F26",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1749,8 +1749,8 @@
       "properties": {
         "id": "F27",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1817,8 +1817,8 @@
       "properties": {
         "id": "F28",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1905,8 +1905,8 @@
       "properties": {
         "id": "F29",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1953,8 +1953,8 @@
       "properties": {
         "id": "F30",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2065,8 +2065,8 @@
       "properties": {
         "id": "F31",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2213,8 +2213,8 @@
       "properties": {
         "id": "F32",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2265,8 +2265,8 @@
       "properties": {
         "id": "F33",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2401,8 +2401,8 @@
       "properties": {
         "id": "F34",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2497,8 +2497,8 @@
       "properties": {
         "id": "F35",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2597,8 +2597,8 @@
       "properties": {
         "id": "F36",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2697,8 +2697,8 @@
       "properties": {
         "id": "F37",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2737,8 +2737,8 @@
       "properties": {
         "id": "F38",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2809,8 +2809,8 @@
       "properties": {
         "id": "F39",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2873,8 +2873,8 @@
       "properties": {
         "id": "F40",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2913,8 +2913,8 @@
       "properties": {
         "id": "F41",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -2977,8 +2977,8 @@
       "properties": {
         "id": "F42",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -3049,8 +3049,8 @@
       "properties": {
         "id": "F43",
         "color": "red",
-        "height": 10,
-        "base_height": 5
+        "height": 6,
+        "base_height": 3
       },
       "geometry": {
         "type": "Polygon",
