@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "id": "1",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "id": "2",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -101,7 +101,7 @@
       "type": "Feature",
       "properties": {
         "id": "3",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -149,7 +149,7 @@
       "type": "Feature",
       "properties": {
         "id": "4",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -193,7 +193,7 @@
       "type": "Feature",
       "properties": {
         "id": "5",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -237,7 +237,7 @@
       "type": "Feature",
       "properties": {
         "id": "6",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -285,7 +285,7 @@
       "type": "Feature",
       "properties": {
         "id": "7",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -333,7 +333,7 @@
       "type": "Feature",
       "properties": {
         "id": "8",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -377,7 +377,7 @@
       "type": "Feature",
       "properties": {
         "id": "9",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -441,7 +441,7 @@
       "type": "Feature",
       "properties": {
         "id": "10",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -497,7 +497,7 @@
       "type": "Feature",
       "properties": {
         "id": "11",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -565,7 +565,7 @@
       "type": "Feature",
       "properties": {
         "id": "12",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -605,7 +605,7 @@
       "type": "Feature",
       "properties": {
         "id": "13",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -645,7 +645,7 @@
       "type": "Feature",
       "properties": {
         "id": "14",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -701,7 +701,7 @@
       "type": "Feature",
       "properties": {
         "id": "15",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -781,7 +781,7 @@
       "type": "Feature",
       "properties": {
         "id": "16",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -821,7 +821,7 @@
       "type": "Feature",
       "properties": {
         "id": "17",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -877,7 +877,7 @@
       "type": "Feature",
       "properties": {
         "id": "18",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -925,7 +925,7 @@
       "type": "Feature",
       "properties": {
         "id": "19",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -969,7 +969,7 @@
       "type": "Feature",
       "properties": {
         "id": "20",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1029,7 +1029,7 @@
       "type": "Feature",
       "properties": {
         "id": "21",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1089,7 +1089,7 @@
       "type": "Feature",
       "properties": {
         "id": "22",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1161,7 +1161,7 @@
       "type": "Feature",
       "properties": {
         "id": "23",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1245,7 +1245,7 @@
       "type": "Feature",
       "properties": {
         "id": "24",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1301,7 +1301,7 @@
       "type": "Feature",
       "properties": {
         "id": "25",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1349,7 +1349,7 @@
       "type": "Feature",
       "properties": {
         "id": "26",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1397,7 +1397,7 @@
       "type": "Feature",
       "properties": {
         "id": "27",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1437,7 +1437,7 @@
       "type": "Feature",
       "properties": {
         "id": "28",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1477,7 +1477,7 @@
       "type": "Feature",
       "properties": {
         "id": "29",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1517,7 +1517,7 @@
       "type": "Feature",
       "properties": {
         "id": "30",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1581,7 +1581,7 @@
       "type": "Feature",
       "properties": {
         "id": "31",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1629,7 +1629,7 @@
       "type": "Feature",
       "properties": {
         "id": "32",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1701,7 +1701,7 @@
       "type": "Feature",
       "properties": {
         "id": "33",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1749,7 +1749,7 @@
       "type": "Feature",
       "properties": {
         "id": "34",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1805,7 +1805,7 @@
       "type": "Feature",
       "properties": {
         "id": "35",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1877,7 +1877,7 @@
       "type": "Feature",
       "properties": {
         "id": "36",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1921,7 +1921,7 @@
       "type": "Feature",
       "properties": {
         "id": "37",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -1965,7 +1965,7 @@
       "type": "Feature",
       "properties": {
         "id": "38",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2013,7 +2013,7 @@
       "type": "Feature",
       "properties": {
         "id": "39",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2077,7 +2077,7 @@
       "type": "Feature",
       "properties": {
         "id": "40",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2117,7 +2117,7 @@
       "type": "Feature",
       "properties": {
         "id": "41",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2157,7 +2157,7 @@
       "type": "Feature",
       "properties": {
         "id": "42",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2237,7 +2237,7 @@
       "type": "Feature",
       "properties": {
         "id": "43",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2277,7 +2277,7 @@
       "type": "Feature",
       "properties": {
         "id": "44",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2317,7 +2317,7 @@
       "type": "Feature",
       "properties": {
         "id": "45",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2357,7 +2357,7 @@
       "type": "Feature",
       "properties": {
         "id": "46",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2397,7 +2397,7 @@
       "type": "Feature",
       "properties": {
         "id": "47",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2561,7 +2561,7 @@
       "type": "Feature",
       "properties": {
         "id": "48",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2613,7 +2613,7 @@
       "type": "Feature",
       "properties": {
         "id": "49",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2669,7 +2669,7 @@
       "type": "Feature",
       "properties": {
         "id": "50",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2721,7 +2721,7 @@
       "type": "Feature",
       "properties": {
         "id": "51",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2777,7 +2777,7 @@
       "type": "Feature",
       "properties": {
         "id": "52",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2833,7 +2833,7 @@
       "type": "Feature",
       "properties": {
         "id": "53",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2877,7 +2877,7 @@
       "type": "Feature",
       "properties": {
         "id": "54",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2921,7 +2921,7 @@
       "type": "Feature",
       "properties": {
         "id": "55",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -2981,7 +2981,7 @@
       "type": "Feature",
       "properties": {
         "id": "56",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -3021,7 +3021,7 @@
       "type": "Feature",
       "properties": {
         "id": "57",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -3061,7 +3061,7 @@
       "type": "Feature",
       "properties": {
         "id": "58",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -3109,7 +3109,7 @@
       "type": "Feature",
       "properties": {
         "id": "59",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -3149,7 +3149,7 @@
       "type": "Feature",
       "properties": {
         "id": "60",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -3189,7 +3189,7 @@
       "type": "Feature",
       "properties": {
         "id": "61",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
@@ -3229,7 +3229,7 @@
       "type": "Feature",
       "properties": {
         "id": "62",
-        "color": "blue",
+        "color": "#0924ef",
         "height": 5,
         "base_height": "0"
       },
